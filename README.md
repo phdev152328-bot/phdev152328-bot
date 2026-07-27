@@ -102,9 +102,6 @@
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
-<img width="210" height="210" alt="image" src="https://github.com/user-attachments/assets/4ac131b1-47b2-4920-8503-1da5e422afad" />
-
-
 <a href="#">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white">
 </a>
