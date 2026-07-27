@@ -4,8 +4,6 @@
 
 ### 🚀 Full Stack Developer em formação
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&width=700&lines=PHP+Developer;Full+Stack+Developer;Always+Learning..." />
-
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=PHP+Backend+Developer;Full+Stack+Developer;REST+API;Cybersecurity+Student;Always+Learning..." />
 
 </div>
