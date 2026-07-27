@@ -4,6 +4,12 @@
 
 ### 🚀 Full Stack Developer em formação
 
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=PHP+Backend+Developer;Full+Stack+Developer;REST+API;Cybersecurity+Student;Always+Learning..." />
 
 </div>
