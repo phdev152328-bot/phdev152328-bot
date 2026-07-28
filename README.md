@@ -14,9 +14,9 @@
 
 ---
 
-# 👨‍💻 Sobre mim
+<h1># 👨‍💻 Sobre mim</h1>
 
-<h1>I'm an aspiring Full Stack Developer passionate about technology and continuous learning. I'm currently building my skills in PHP, JavaScript, REST APIs, MySQL, networking, cybersecurity, cloud computing, and artificial intelligence, with the goal of developing modern, scalable, and secure web applications.</h1>
+<p>I'm an aspiring Full Stack Developer passionate about technology and continuous learning. I'm currently building my skills in PHP, JavaScript, REST APIs, MySQL, networking, cybersecurity, cloud computing, and artificial intelligence, with the goal of developing modern, scalable, and secure web applications.</p>
 
 - 🎯 Focado em Desenvolvimento Full Stack
 - 💻 Estudando PHP, JavaScript e APIs REST
