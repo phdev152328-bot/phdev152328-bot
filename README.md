@@ -110,15 +110,3 @@
 ---
 
 <div align="center">
-
-
-
-<a href="https://www.linkedin.com/in/pedro-henrique-ferreira-da-luz-330b31419/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:seuemail@email.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</div>
