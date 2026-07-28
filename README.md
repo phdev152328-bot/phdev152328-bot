@@ -5,6 +5,9 @@
 ### 🚀 Full Stack Developer em formação
 
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00C9FF,100:6C63FF&text=Pedro%20Henrique&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=PHP+Backend+Developer;Full+Stack+Developer;REST+API;Cybersecurity+Student;Always+Learning..." />
 
 </div>
