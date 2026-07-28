@@ -14,9 +14,10 @@
 
 ---
 
-<h1># 👨‍💻 Sobre mim</h1>
+# 👨‍💻 Sobre mim
 
-<p>I'm an aspiring Full Stack Developer passionate about technology and continuous learning. I'm currently building my skills in PHP, JavaScript, REST APIs, MySQL, networking, cybersecurity, cloud computing, and artificial intelligence, with the goal of developing modern, scalable, and secure web applications.</p>
+<p>I'm an aspiring Full Stack Developer passionate about technology and continuous learning. I'm currently building my skills in PHP, JavaScript, REST APIs, MySQL, networking, cybersecurity, cloud computing, and artificial intelligence, with the goal of developing modern, scalable, and secure web applications.I am currently studying Systems Analysis and Development at Estácio University in Brazil; I am still in my second semester but am very eager to learn new technologies and contribute to future systems—all tailored to the client's preferences.</p>
+
 
 - 🎯 Focado em Desenvolvimento Full Stack
 - 💻 Estudando PHP, JavaScript e APIs REST
