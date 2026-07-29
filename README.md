@@ -34,7 +34,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,php,git,github,mysql,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,git,github,postresql,vscode,linux"/>
 
 </p>
 
@@ -59,7 +59,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,unbutu"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,"/>
 
 </p>
 
@@ -109,9 +109,9 @@
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,php,git,github,mysql,vscode,instagram"/>
-
+<a href="">
+<img src="https://skillicons.dev/icons?i="whatsapp"/>
+</a>
 
 </p>
 
