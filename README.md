@@ -59,7 +59,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows"/>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,linux"/>
 
 </p>
 
