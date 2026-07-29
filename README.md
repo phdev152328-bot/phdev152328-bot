@@ -69,9 +69,9 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=phdev152328-bot&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdev152328-bot&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -81,7 +81,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=phdev152328-bot&theme=tokyonight"/>
 
 </p>
 
@@ -91,7 +91,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=phdev152328-bot&theme=tokyonight&margin-w=15"/>
 
 </p>
 
