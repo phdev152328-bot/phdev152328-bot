@@ -109,6 +109,10 @@
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,git,github,mysql,vscode,instagram"/>
+
+
 </p>
 
 ---
