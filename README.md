@@ -34,7 +34,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,php,git,github,postresql,vscode,linux"/>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,php,git,github,mysql,vscode,linux"/>
 
 </p>
 
@@ -43,7 +43,7 @@
 # 📚 Atualmente estudando
 
 - ✅ PHP
-- ✅ MySQL
+- ✅ PostreSQL
 - ✅ REST API
 - ✅ Git
 - ✅ GitHub
@@ -81,7 +81,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=phdev152328-bot&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=Pedro.Dev,phdev152328-bot&theme=tokyonight"/>
 
 </p>
 
@@ -91,7 +91,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=phdev152328-bot&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Pedro.Dev&theme=tokyonight&margin-w=15"/>
 
 </p>
 
@@ -109,8 +109,8 @@
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="">
-<img src="https://skillicons.dev/icons?i="whatsapp"/>
+<a href="#">
+<img src="https://skillicons.dev/icons?i="instagram"/>
 </a>
 
 </p>
