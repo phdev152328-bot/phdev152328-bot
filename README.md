@@ -16,26 +16,51 @@
 
 # 👨‍💻 Sobre mim
 
-<p>Sou um aspirante a desenvolvedor Full Stack apaixonado por tecnologia e pelo aprendizado contínuo. Atualmente, estou aprimorando minhas habilidades em PHP, JavaScript, APIs REST, MySQL, redes, cibersegurança, computação em nuvem e inteligência artificial, com o objetivo de desenvolver aplicações web modernas, escaláveis ​​e seguras. Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio, no Brasil; embora esteja apenas no segundo semestre, tenho grande interesse em aprender novas tecnologias e contribuir para o desenvolvimento de sistemas — sempre personalizados de acordo com as preferências do cliente.
+<p>🪖DESENVOLVEDOR FULL-STACK JUNIOR</p>
+BR-BRASIL
+
+<p>Sou um aspirante a desenvolvedor Full Stack apaixonado por tecnologia e pelo aprendizado contínuo. Atualmente, estou aprimorando minhas habilidades em PHP, JavaScript, APIs REST, MySQL, redes, cibersegurança, computação em nuvem e inteligência artificial, com o objetivo de desenvolver aplicações web modernas, escaláveis ​​e seguras. Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio, no Brasil embora esteja apenas no segundo semestre, tenho grande interesse em aprender novas tecnologias e contribuir para o desenvolvimento de sistemas — sempre personalizados de acordo com as preferências do cliente🚩.
 </p>
 
+# 📫 Contato
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/pedro-henrique-ferreira-da-luz-330b31419/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:ph.dev152328@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://github.com/phdev152328-bot/phdev152328-bot">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
 
 - 🎯 Focado em Desenvolvimento Full Stack
 - 💻 Estudando PHP, JavaScript e APIs REST
 - 🌐 Aprendendo Redes de Computadores
 - 🔐 Estudando Segurança Web
 - ☁️ Futuramente AWS e Cloud
-- 🤖 Desenvolvendo soluções com Inteligência Artificial
 - 📚 Sempre aprendendo novas tecnologias
 
 ---
 
-# 🚀 Tecnologias
+# 🚀 Tech stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,javascript,php,git,github,mysql,vscode,linux"/>
-
+<p>FRONT-END</p>
+<img src="https://skillicons.dev/icons?i=react,html,tailwind,js,php,python"/>
+<p>BACK-END</p>
+<img src="https://skillicons.dev/icons?i=nodejs,php,laravel,python,mysql,vercel"/>
+<p>DEVSECOPS</p>
+<img src="https://skillicons.dev/icons?i=python,linux,KALI"/>
 </p>
 
 ---
@@ -43,10 +68,10 @@
 # 📚 Atualmente estudando
 
 - ✅ PHP
-- ✅ PostreSQL
+- ✅ MySQL
 - ✅ REST API
-- ✅ Git
-- ✅ GitHub
+- ✅ PYTHON
+- ✅ Git E Github
 - ✅ Redes
 - ✅ Segurança Web
 - 🚀 Laravel
@@ -58,8 +83,8 @@
 # 🛠 Ferramentas
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,"/>
+<p>⌨️tecnologias & sistemas operacionais</p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,vercel,docker,"/>
 
 </p>
 
@@ -92,26 +117,6 @@
 <p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Pedro.Dev&theme=tokyonight&margin-w=15"/>
-
-</p>
-
----
-
-# 📫 Contato
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/pedro-henrique-ferreira-da-luz-330b31419/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:seuemail@email.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="#">
-<img src="https://skillicons.dev/icons?i="instagram"/>
-</a>
 
 </p>
 
