@@ -17,7 +17,7 @@
 # 👨‍💻 Sobre mim
 
 <p>🪖DESENVOLVEDOR FULL-STACK JUNIOR</p>
-BR-BRASIL
+CE-BRASIL
 
 <p>Sou um aspirante a desenvolvedor Full Stack apaixonado por tecnologia e pelo aprendizado contínuo. Atualmente, estou aprimorando minhas habilidades em PHP, JavaScript, APIs REST, MySQL, redes, cibersegurança, computação em nuvem e inteligência artificial, com o objetivo de desenvolver aplicações web modernas, escaláveis ​​e seguras. Estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio, no Brasil embora esteja apenas no segundo semestre, tenho grande interesse em aprender novas tecnologias e contribuir para o desenvolvimento de sistemas — sempre personalizados de acordo com as preferências do cliente🚩.
 </p>
@@ -83,7 +83,7 @@ BR-BRASIL
 # 🛠 Ferramentas
 
 <p align="center">
-<p>⌨️tecnologias & sistemas operacionais</p>
+<p>🏗️tecnologias & sistemas operacionais</p>
 <img src="https://skillicons.dev/icons?i=vscode,git,github,linux,windows,vercel,docker,"/>
 
 </p>
