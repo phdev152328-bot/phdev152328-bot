@@ -30,11 +30,11 @@ BR-BRASIL
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:ph.dev152328@gmail.com">
+<a href="ph.dev152328@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/phdev152328-bot/phdev152328-bot">
+<a href="https://github.com/phdev152328-bot">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
