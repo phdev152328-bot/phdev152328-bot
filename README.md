@@ -54,9 +54,9 @@
 <p>FRONT-END</p>
 <img src="https://skillicons.dev/icons?i=react,html,css,js,npm,python"/>
 <p>BACK-END</p>
-<img src="https://skillicons.dev/icons?i=nodejs,js,python,npm,fastapi,hostiger"/>
+<img src="https://skillicons.dev/icons?i=nodejs,js,python,npm,django,flask,fastapi,hostiger"/>
 <p>DEVSECOPS</p>
-<img src="https://skillicons.dev/icons?i=python,npm,fastapi,docker,linux,"/>
+<img src="https://skillicons.dev/icons?i=python,npm,fastapi,django,docker,linux,"/>
 </p>
 
 ---
