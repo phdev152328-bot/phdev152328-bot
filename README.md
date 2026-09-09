@@ -102,7 +102,7 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=Pedro.Dev,phdev152328-bot&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=phdev152328-bot,phdev152328-bot&theme=tokyonight"/>
 
 </p>
 
@@ -112,7 +112,7 @@
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Pedro.Dev&theme=tokyonight&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=phdev152328-bot&theme=tokyonight&margin-w=15"/>
 
 </p>
 
