@@ -90,9 +90,10 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=phdev152328-bot&show_icons=true&theme=tokyonight"/>
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phdev152328-bot&theme=radical)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phdev152328-bot&layout=compact&theme=tokyonight"/>
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phdev152328-bot&theme=radical)
+
 
 </p>
 
@@ -102,20 +103,13 @@
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=phdev152328-bot,phdev152328-bot&theme=tokyonight"/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phdev152328-bot/&theme=cobalt&date_format=j%20M%5B%20Y%5D)
+
+
 
 </p>
 
 ---
 
-# 🏆 Conquistas
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=phdev152328-bot&theme=tokyonight&margin-w=15"/>
-
-</p>
-
----
 
 <div align="center">
