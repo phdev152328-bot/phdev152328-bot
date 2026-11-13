@@ -1,113 +1,87 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:00C9FF,100:6C63FF&text=Pedro%20Henrique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Dev%20Full-Stack%20em%20Forma%C3%A7%C3%A3o&descAlignY=55&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:00C9FF,100:6C63FF&text=Pedro%20Henrique&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Cybersecurity%20%7C%20Networking%20%7C%20AI&descAlignY=58&descSize=19"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Estudante+de+ADS+%F0%9F%8E%93;Construindo+o+BravuraFit+%F0%9F%A6%85;Python+%2B+JavaScript+%2B+FastAPI;Aberto+a+oportunidades+de+est%C3%A1gio+%F0%9F%9A%80"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1200&color=00C9FF&center=true&vCenter=true&width=750&lines=Explorando+Ciberseguran%C3%A7a+%F0%9F%94%90;Redes+%7C+Monitoramento+%7C+An%C3%A1lise;Intelig%C3%AAncia+Artificial+%7C+Agentes+%7C+Automa%C3%A7%C3%B5es;Investigando%2C+aprendendo+e+experimentando"/>
 
-<br>
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-ferreira-da-luz-330b31419/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/phdev152328-bot)
-![Status](https://img.shields.io/badge/status-aberto%20a%20oportunidades-2ea44f?style=for-the-badge)
+<img src="https://img.shields.io/badge/Cybersecurity-Em%20estudo-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Networking-Em%20aprendizado-00A6D6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Explorando-8A63D2?style=for-the-badge"/>
 
 </div>
 
-<br>
+---
 
-## 👋 Sobre mim
+## 👨‍💻 Sobre mim
 
-Sou o **Pedro**, estudante de **Análise e Desenvolvimento de Sistemas** na Estácio (Fortaleza, CE) e aspirante a **desenvolvedor Full-Stack**. Gosto de transformar ideias em produto de verdade — de sites com efeitos 3D a SaaS gamificados — sempre aprendendo na prática, um projeto por vez.
+Sou um entusiasta de tecnologia, movido pela curiosidade, investigação e resolução de problemas. Tenho especial interesse em Cibersegurança e Segurança da Informação, principalmente na prática de compreender como sistemas e redes funcionam, monitorar tráfego, analisar portas, investigar comportamentos e identificar possíveis vulnerabilidades. Gosto de explorar ferramentas, realizar testes em ambientes controlados, conectar informações e transformar pequenas descobertas em novas hipóteses, buscando entender não apenas como algo funciona, mas também até onde uma investigação pode chegar. Também tenho grande interesse em Inteligência Artificial e na aplicação profissional de suas ferramentas, explorando agentes, skills, plugins e automações para solucionar problemas, integrar tecnologias e otimizar processos. Valorizo a experimentação, o pensamento analítico e o aprendizado contínuo, sempre buscando transformar curiosidade em conhecimento, conhecimento em prática e ideias em soluções seguras, inteligentes e confiáveis.
 
-- 🎓 Cursando ADS — 2º semestre
-- 📍 Fortaleza, CE — Brasil
-- 🔭 Construindo o **BravuraFit**, meu SaaS de fitness gamificado
-- 🌱 Aprofundando em **FastAPI, PostgreSQL, Redes e DevSecOps**
-- 🎯 Em busca da minha primeira vaga de **estágio em desenvolvimento**
-- 💬 Também crio landing pages, automações e agentes de IA para pequenos negócios locais
 
-<br>
-
-## 🚀 Projetos em destaque
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🦅 BravuraFit
-SaaS de fitness gamificado (calistenia + musculação) com mecânicas de RPG — XP, ranks, streaks e ranking assíncrono entre usuários. Guiado por um mascote **Falcão** que acompanha o desempenho, motiva e aplica penalidades.
-
-`Flask` `PostgreSQL` `Freemium`
-
-</td>
-<td width="50%" valign="top">
-
-### ☕ Aroma 3D
-Site para cafeteria com hero 3D interativo e configurador de produto em tempo real.
-
-`React` `Next.js` `Three.js`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🧮 Cálculo
-Landing page com efeito de tilt 3D e tela de login com glassmorphism + partículas animadas.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-<td width="50%" valign="top">
-
-### 🐍 Snake Game
-O clássico jogo da cobrinha em JS puro, com HTML semântico e foco em acessibilidade.
-
-`HTML` `CSS` `JavaScript`
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-<sub>💡 troque os links acima pelos repositórios reais quando publicar</sub>
-</div>
-
-<br>
-
-## 🛠️ Tech Stack
+## 📚 Estudos atuais
 
 <div align="center">
 
-**Front-end**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind"/>
-
-<br>
-
-**Back-end**
-<br>
-<img src="https://skillicons.dev/icons?i=python,nodejs,flask,fastapi,django,postgres"/>
-
-<br>
-
-**DevOps & Ferramentas**
-<br>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,npm"/>
+<img src="https://img.shields.io/badge/Redes%20de%20Computadores-Estudando-0078D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/Linux-Estudando-FCC624?style=flat-square&logo=linux&logoColor=black"/>
+<img src="https://img.shields.io/badge/Segurança%20da%20Informação-Estudando-6C63FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/Python-Em%20aprendizado-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-Em%20aprendizado-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
 
 </div>
 
-<br>
+## 🛠️ Ferramentas em exploração
 
-## 📚 Estudando agora
+<div align="center">
 
-| Concluindo | Em andamento | Próximos passos |
-|:---:|:---:|:---:|
-| ✅ Python | ✅ FastAPI | 🚀 Docker |
-| ✅ JavaScript | ✅ PostgreSQL | 🚀 React |
-| ✅ Git & GitHub | ✅ Redes de Computadores | 🚀 DevSecOps |
+<img src="https://img.shields.io/badge/Kali%20Linux-Explorando-557C94?style=for-the-badge&logo=kalilinux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nmap-Explorando-00A6D6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Wireshark-Explorando-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
 
-<br>
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Zabbix-Futuro%20aprendizado-D40000?style=for-the-badge&logo=zabbix&logoColor=white"/>
+<img src="https://img.shields.io/badge/Grafana-Futuro%20aprendizado-F46800?style=for-the-badge&logo=grafana&logoColor=white"/>
+
+</div>
+
+## 💻 Tecnologias
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=linux,bash,python,mysql,git,github,vscode&theme=dark"/>
+
+</div>
+
+## 🤖 Inteligência Artificial
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/AI%20Agents-Explorando-6C63FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Skills%20%26%20Plugins-Explorando-00A6D6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Automation-Explorando-8A63D2?style=for-the-badge"/>
+
+</div>
+
+## 🚀 Projetos futuros
+
+- Montar um laboratório próprio de redes e segurança.
+- Praticar reconhecimento de redes e análise de portas.
+- Desenvolver experiências de monitoramento de tráfego.
+- Explorar automações e integrações utilizando IA.
+- Documentar meus estudos e experimentos no GitHub.
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:00C9FF,100:6C63FF&height=3&section=footer"/>
+
+**"Curiosidade para investigar, conhecimento para compreender e tecnologia para criar novas possibilidades."**
+
+</div>
 
 ## 📊 GitHub Stats
 
